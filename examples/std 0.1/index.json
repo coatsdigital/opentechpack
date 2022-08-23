@@ -1,0 +1,17 @@
+{
+    "root": {
+        "otpack_standard": "0.1",
+        "created_timestamp": "1661291299527",
+        "created_by": {
+            "user": "jp",
+            "email": "jp@bt.com",
+            "organisation": "coats"
+        }
+    },
+    "files": {
+        "path": "*"
+    },
+    "folders": {
+        "images": "images"        
+    }
+}
