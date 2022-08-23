@@ -8,10 +8,5 @@
             "organisation": "coats"
         }
     },
-    "files": {
-        "path": "*"
-    },
-    "folders": {
-        "images": "images"        
-    }
+    "start_here": "index.html"
 }
