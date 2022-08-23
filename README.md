@@ -13,4 +13,4 @@ Head over to the [Issues](https://github.com/coatsdigital/opentechpack/issues) t
 - TechPacks need to be both human and machine-readable
 
 
-![<img src="./qr-code.png" width="50px" />](/qr-code.png)
+![<img src="./qr-code.png" width="30px" />](/qr-code.png)
