@@ -1,12 +1,14 @@
 {
-    "root": {
-        "otpack_standard": "0.1",
+    "otpack_standard": "0.1",
+    "start_here": "index.html",
+    "about": {
+        "name": "Garment Name ABC",
+        "description": "This is an example TechPack and contains information related to a fictitious product.",
         "created_timestamp": "1661291299527",
         "created_by": {
             "user": "jp",
             "email": "jp@bt.com",
-            "organisation": "coats"
+            "organisation": "FutureBrand"
         }
-    },
-    "start_here": "index.html"
+    }    
 }
