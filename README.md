@@ -2,7 +2,7 @@
 
 ![<img src="./OpenTechPack.png" width="50px" />](/OpenTechPack.png)
 
-This is a community effort to create an Open Tech Pack file format for creating, reading, and enriching Tech Packs in the Fashion and garment industry.
+This is a community effort to create an Open TechPack file format for creating, reading, and enriching information used in the production of garments in the fashion industry.
 
 Head over to the [Issues](https://github.com/coatsdigital/opentechpack/issues) to contribute.
 
