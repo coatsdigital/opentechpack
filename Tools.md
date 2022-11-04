@@ -1,2 +1,2 @@
-Recognition
-Extraction
+* Recognition
+* Extraction
